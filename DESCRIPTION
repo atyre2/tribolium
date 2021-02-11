@@ -1,0 +1,18 @@
+Package: tribolium
+Title: Stuctured Models of Tribolium Population Dynamics
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Andrew",
+           family = "Tyre",
+           role = c("aut", "cre"),
+           email = "atyre2@unl.edu",
+           comment = c(ORCID = "0000-0001-9736-641X"))
+Description: Functions to implement size and stage structured models of Tribolium dynamics. 
+License: MIT + file LICENSE
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
