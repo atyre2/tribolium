@@ -17,6 +17,6 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
-    tidypop
+    tidypop,
 Depends: 
     R (>= 2.10)

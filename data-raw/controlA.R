@@ -1,6 +1,6 @@
 ## code to prepare `controlA` dataset goes here
 
-controlA <- data.frame(
+controla <- data.frame(
   t = 0:19,
   b = 11.67,
   c_el = 0.0093,
@@ -10,4 +10,4 @@ controlA <- data.frame(
   mu_a = 0.1108,
   V = 1
 )
-usethis::use_data(controlA, overwrite = TRUE)
+usethis::use_data(controla, overwrite = TRUE)
